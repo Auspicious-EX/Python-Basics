@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Auspicious-EX/100day-Python/blob/main/Banner-Image/100days-python.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/Python-Basics/blob/main/Images/pythin%20basics.gif?raw=true)](https://)
 
 # Python Basics
 
